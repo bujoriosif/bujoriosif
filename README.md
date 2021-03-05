@@ -4,7 +4,7 @@
 **bujoriosif/bujoriosif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Bujor_Iosif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iosif-bujor-89465753//)](https://www.linkedin.com/in/pushpneet-singh-155a9015a/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bujor_Iosif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iosif-bujor-89465753//)](https://www.linkedin.com/in/iosif-bujor-89465753/) 
 [![Gmail Badge](https://img.shields.io/badge/-bujoriosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bujoriosif@gmail.com)](mailto:bujoriosif@gmail.com)
 
 
