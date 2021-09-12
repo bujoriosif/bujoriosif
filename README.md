@@ -1,48 +1,31 @@
-### Hi there 👋
+### Hi there 👋 I'm Iosif
 
-<!--
-**bujoriosif/bujoriosif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm from Romania, and I do software development. I enjoy learning new stuff and build awesome apps. My main skills are Javascript, Node and React. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bujor_Iosif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iosif-bujor-89465753//)](https://www.linkedin.com/in/iosif-bujor-89465753/) 
 [![Gmail Badge](https://img.shields.io/badge/-bujoriosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bujoriosif@gmail.com)](mailto:bujoriosif@gmail.com)
 
+🧰 Toolbox
 
-Here are some ideas to get you started:
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="NextJS logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C sharp logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML 5 logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM logo" width="50" height="50"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on Fullstack Javascript
-- 📫 How to reach me: Linkedin, Mail
+🏫Learning
 
-**Languages and Tools:**
 
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>    
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/hapijs/hapijs-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/parceljs/parceljs-ar21.svg"></code>
-</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go logo" width="50" height="50"/>
+
+
+
+
+
+
+
+
+
+
+
+
+[![Iosif GitHub stats](https://github-readme-stats.vercel.app/api?username=bujoriosif&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
