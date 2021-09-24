@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Iosif
 
-I'm from Romania, and I do software development. I enjoy learning new stuff and build awesome apps. My main skills are Javascript, Node and React. 
+I'm from Romania and I'm a senior full-stack sfotware engineer with over 10 years of experience in deisgning and implementing software solutions. Focused on Javascript but not limited to that, always eager to learn and improve my skills.  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bujor_Iosif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iosif-bujor-89465753//)](https://www.linkedin.com/in/iosif-bujor-89465753/) 
 [![Gmail Badge](https://img.shields.io/badge/-bujoriosif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bujoriosif@gmail.com)](mailto:bujoriosif@gmail.com)
@@ -32,3 +32,7 @@ I'm from Romania, and I do software development. I enjoy learning new stuff and 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=bujoriosif) 
 [![Github](https://img.shields.io/github/followers/bujoriosif?label=Follow&style=social)](https://github.com/bujoriosif)
+
+#### 🌎Interested in remote work!
+
+#### 📬Feel free to drop me a message at bujoriosif@gmail.com
