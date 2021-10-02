@@ -30,6 +30,8 @@ I'm from Romania and I'm a senior full-stack sfotware engineer with over 10 year
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bujoriosif&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bujoriosif&theme=tokyonight)](https://github.com/bujoriosif/github-readme-streak-stats)
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=bujoriosif) 
 [![Github](https://img.shields.io/github/followers/bujoriosif?label=Follow&style=social)](https://github.com/bujoriosif)
 
